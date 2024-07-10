@@ -1,0 +1,11 @@
+﻿  Commands.cpp
+  Market.cpp
+  Wallet.cpp
+  XMLLoader.cpp
+  main.cpp
+  Generating code
+  69 of 1215 functions ( 5.7%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  StockMarketSimulator.vcxproj -> D:\Gamedev\StockMarketSimulator\StockMarketSimulator\x64\Release\StockMarketSimulator.exe

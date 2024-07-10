@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<wallet>
+	<money>1000</money>
+	<assets>
+		<asset>
+			<property name="name">NW</property>
+			<property name="quantity">10</property>
+			<property name="price">100</property>
+		</asset>
+		<asset>
+			<property name="name">NW</property>
+			<property name="quantity">20</property>
+			<property name="price">90</property>
+		</asset>
+		<asset>
+			<property name="name">FTR</property>
+			<property name="quantity">30</property>
+			<property name="price">50</property>
+		</asset>
+	</assets>
+</wallet>

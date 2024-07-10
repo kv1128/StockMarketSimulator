@@ -1,0 +1,8 @@
+﻿  Commands.cpp
+  Market.cpp
+  Wallet.cpp
+  XMLLoader.cpp
+  main.cpp
+  tinyxml2.cpp
+  Generating Code...
+  StockMarketSimulator.vcxproj -> D:\Gamedev\StockMarketSimulator\Debug\StockMarketSimulator.exe
